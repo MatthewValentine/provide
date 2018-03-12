@@ -1,7 +1,7 @@
-package provide
+package provide_test
 
 import (
-	"provide"
+	"github.com/MatthewValentine/provide"
 	"runtime"
 	"strconv"
 	"testing"
